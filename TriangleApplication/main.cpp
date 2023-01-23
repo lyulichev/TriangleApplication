@@ -54,7 +54,6 @@ public:
         mainLoop();
         cleanup();
     }
-
 private:
     GLFWwindow* window;
 
