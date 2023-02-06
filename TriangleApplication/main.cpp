@@ -1543,7 +1543,6 @@ private:
             if (indices.isComplete()) {
                 break;
             }
-
             i++;
         }
         return indices;
