@@ -1,18 +1,10 @@
 # TriangleApplication
 
-// Copyright 2017-2022 The Khronos Group Inc.
-// SPDX-License-Identifier: CC-BY-4.0
-
-ifdef::env-github[]
-:note-caption: :information_source:
-endif::[]
-
-= Vulkan^(R)^ API Documentation Project
+Vulkan(R) API Documentation Project
 
 This repository contains sources for the formal documentation of the Vulkan
 API. This includes:
 
-[options="compact"]
   * The Vulkan API Specification
   * Specification of Vulkan extensions
   * API reference ("`man`") pages
